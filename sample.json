@@ -1,0 +1,45 @@
+{
+	"myName": "Rinat",
+	"ILike": ["learning", "walk", "cycling", "reading"],
+	"IDrinkVodka": false,
+	"youtubeSubscribers": 4070,
+	"FTCCourses": [{
+			"Course Name": "Software Developer Traineeship",
+			"Attendance": "Day",
+			"CourseCode": "FGS33",
+			"Duration": "2years",
+			"CourseContent": [
+				"Induction",
+				"Software Development Lifecycle",
+				"Software Development Project Skills",
+				"Microsoft SQL Server Database Development",
+				"Unified Modelling Language (UML)",
+				"Software Development Options (Regional Variations)",
+				"Software Development Using Java",
+				"Introduction To New Industry & Web Technologies",
+				"Software Development Traineeship Project",
+				"Comptia Cloud Essentials",
+				"Career Planning And Job Seeking Skills",
+				"Software Developer Workplace Training"
+			]
+		},
+
+		{
+			"Course Name": "Front End Web Developer",
+			"Attendance": "Day",
+			"CourseCode": "FGR87",
+			"Duration": "36 weeks + 12 weeks work exp",
+			"CourseContent": [
+				"Induction",
+				"Job Seeking Skills/CV",
+				"Project Management",
+				"XHTML/CSS",
+				"JavaScript",
+				"Cross Browser Development/ Testing & Debugging",
+				"Content Management System (CMS)",
+				"Work Practice"
+			]
+		}
+	]
+
+}
